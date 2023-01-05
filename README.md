@@ -1,2 +1,5 @@
-# CS438-Communication-Networks
-CS/ECE 438 Communication Networks, UIUC Fall 2022 MPs
+# CS 438 (fa22) repo for NetID: dingkun2
+
+GitHub username at initialization time: Melody-Creator
+
+For next steps, please refer to the instructions provided by your course.
